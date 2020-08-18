@@ -1,0 +1,8 @@
+#ifndef CARTE_H_INCLUDED
+#define CARTE_H_INCLUDED
+
+int humidite(int carte[TAILLE_TABLEAU_CARTE][LARGEUR_CARTE][HAUTEUR_CARTE]);
+int pontesEtHumdite(int carte[TAILLE_TABLEAU_CARTE][LARGEUR_CARTE][HAUTEUR_CARTE], infosCouvain couvain[TAILLE_TABLEAU_COUVAIN][MAX_POPULATION], int carteNbrPopulation[TAILLE_TABLEAU_POPULATION][LARGEUR_CARTE][HAUTEUR_CARTE], int typeCouvain, int I);
+int spawnReine(int carte[TAILLE_TABLEAU_CARTE][LARGEUR_CARTE][HAUTEUR_CARTE], infosPopulation *reine);
+
+#endif // CARTE_H_INCLUDED

@@ -1,0 +1,490 @@
+# depslib dependency file v1.0
+1436963189 source:c:\users\chris\documents\programmation\simulateur d'élevage de fourmis\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1428682238 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1429190655 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1437385288 c:\users\chris\documents\programmation\simulateur d'élevage de fourmis\constantes.h
+
+1437472256 source:c:\users\chris\documents\programmation\simulateur d'élevage de fourmis\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1437423894 c:\users\chris\documents\programmation\simulateur d'élevage de fourmis\jeu.h
+
+1436963189 source:c:\users\chris\documents\programmation\simulateur d'élevage de fourmis\fichiers.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1436962564 c:\users\chris\documents\programmation\simulateur d'élevage de fourmis\fichiers.h
+
+1429731673 c:\users\chris\documents\programmation\simulateur d'élevage de fourmis\parametres.h
+
+1436963072 source:c:\users\chris\documents\programmation\simulateur d'élevage de fourmis\parametres.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1436962227 c:\users\chris\documents\programmation\simulateur d'élevage de fourmis\graphisme.h
+
+1436963189 source:c:\users\chris\documents\programmation\simulateur d'élevage de fourmis\graphisme.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1437338301 source:c:\users\chris\documents\programmation\simulateur d'élevage de fourmis\carte.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1437334680 c:\users\chris\documents\programmation\simulateur d'élevage de fourmis\carte.h
+
+1440519371 source:d:\programmation\0 simulateur d'élevage de fourmis\carte.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1440608155 d:\programmation\0 simulateur d'élevage de fourmis\constantes.h
+
+1440515894 d:\programmation\0 simulateur d'élevage de fourmis\jeu.h
+
+1440607862 d:\programmation\0 simulateur d'élevage de fourmis\fichiers.h
+
+1429731673 d:\programmation\0 simulateur d'élevage de fourmis\parametres.h
+
+1440604819 d:\programmation\0 simulateur d'élevage de fourmis\graphisme.h
+
+1437334680 d:\programmation\0 simulateur d'élevage de fourmis\carte.h
+
+1440607862 source:d:\programmation\0 simulateur d'élevage de fourmis\fichiers.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1440606388 source:d:\programmation\0 simulateur d'élevage de fourmis\graphisme.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1440608022 source:d:\programmation\0 simulateur d'élevage de fourmis\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1436963189 source:d:\programmation\0 simulateur d'élevage de fourmis\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1436963072 source:d:\programmation\0 simulateur d'élevage de fourmis\parametres.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1440522972 source:d:\mes documents\programmation c\0 simulateur d'élevage de fourmis\carte.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1440611756 d:\mes documents\programmation c\0 simulateur d'élevage de fourmis\constantes.h
+
+1440519496 d:\mes documents\programmation c\0 simulateur d'élevage de fourmis\jeu.h
+
+1440611464 d:\mes documents\programmation c\0 simulateur d'élevage de fourmis\fichiers.h
+
+1429735274 d:\mes documents\programmation c\0 simulateur d'élevage de fourmis\parametres.h
+
+1440608420 d:\mes documents\programmation c\0 simulateur d'élevage de fourmis\graphisme.h
+
+1437338282 d:\mes documents\programmation c\0 simulateur d'élevage de fourmis\carte.h
+
+1440611464 source:d:\mes documents\programmation c\0 simulateur d'élevage de fourmis\fichiers.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1440609990 source:d:\mes documents\programmation c\0 simulateur d'élevage de fourmis\graphisme.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1440612772 source:d:\mes documents\programmation c\0 simulateur d'élevage de fourmis\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1436966790 source:d:\mes documents\programmation c\0 simulateur d'élevage de fourmis\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+
+1436966674 source:d:\mes documents\programmation c\0 simulateur d'élevage de fourmis\parametres.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+	"parametres.h"
+	"graphisme.h"
+	"carte.h"
+

@@ -1,0 +1,6 @@
+#ifndef FICHIERS_H_INCLUDED
+#define FICHIERS_H_INCLUDED
+
+int chargerCarte(int carte[TAILLE_TABLEAU_CARTE][LARGEUR_CARTE][HAUTEUR_CARTE], int numeroCarte);
+
+#endif // FICHIERS_H_INCLUDED
